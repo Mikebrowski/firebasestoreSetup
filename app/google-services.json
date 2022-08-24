@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "837945352721",
+    "project_id": "buttonnavcrud",
+    "storage_bucket": "buttonnavcrud.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:837945352721:android:a94c83929c339cfc77c7b0",
+        "android_client_info": {
+          "package_name": "git.azure.buttonnav"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "837945352721-eer4cpretngcssne1qlss4f2btqvpr8t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBh4ibFDuJ0vuK_j0AXpX6eFKbicACBqbE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "837945352721-eer4cpretngcssne1qlss4f2btqvpr8t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:837945352721:android:6ab6d463f4f43e5377c7b0",
+        "android_client_info": {
+          "package_name": "git.azure.crudsimple"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "837945352721-eer4cpretngcssne1qlss4f2btqvpr8t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBh4ibFDuJ0vuK_j0AXpX6eFKbicACBqbE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "837945352721-eer4cpretngcssne1qlss4f2btqvpr8t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
